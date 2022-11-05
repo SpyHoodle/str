@@ -1,4 +1,4 @@
-# [str]
+# [str] -  /stɔː<sup>r</sup>/
 A technical smart storage real life organisational system for the perfectionist, written in Rust.
 > ⚠️ In heavy development - doesn't work properly yet. I may also choose to abandon this project if it isn't worthwhile as it's complicated.
 
